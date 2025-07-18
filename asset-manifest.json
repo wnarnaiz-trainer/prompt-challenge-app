@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/prompt-challenge-app/static/css/main.bbc5493b.css",
-    "main.js": "/prompt-challenge-app/static/js/main.c3f2e702.js",
+    "main.css": "/prompt-challenge-app/static/css/main.de978bdf.css",
+    "main.js": "/prompt-challenge-app/static/js/main.82736150.js",
     "static/js/535.e7636cdd.chunk.js": "/prompt-challenge-app/static/js/535.e7636cdd.chunk.js",
     "index.html": "/prompt-challenge-app/index.html",
-    "main.bbc5493b.css.map": "/prompt-challenge-app/static/css/main.bbc5493b.css.map",
-    "main.c3f2e702.js.map": "/prompt-challenge-app/static/js/main.c3f2e702.js.map",
+    "main.de978bdf.css.map": "/prompt-challenge-app/static/css/main.de978bdf.css.map",
+    "main.82736150.js.map": "/prompt-challenge-app/static/js/main.82736150.js.map",
     "535.e7636cdd.chunk.js.map": "/prompt-challenge-app/static/js/535.e7636cdd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbc5493b.css",
-    "static/js/main.c3f2e702.js"
+    "static/css/main.de978bdf.css",
+    "static/js/main.82736150.js"
   ]
 }
