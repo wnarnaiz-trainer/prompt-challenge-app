@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/prompt-challenge-app/static/css/main.ba60eb2d.css",
-    "main.js": "/prompt-challenge-app/static/js/main.0ec086b9.js",
+    "main.js": "/prompt-challenge-app/static/js/main.e64485e3.js",
     "static/js/534.d1936ba3.chunk.js": "/prompt-challenge-app/static/js/534.d1936ba3.chunk.js",
     "index.html": "/prompt-challenge-app/index.html",
     "main.ba60eb2d.css.map": "/prompt-challenge-app/static/css/main.ba60eb2d.css.map",
-    "main.0ec086b9.js.map": "/prompt-challenge-app/static/js/main.0ec086b9.js.map",
+    "main.e64485e3.js.map": "/prompt-challenge-app/static/js/main.e64485e3.js.map",
     "534.d1936ba3.chunk.js.map": "/prompt-challenge-app/static/js/534.d1936ba3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba60eb2d.css",
-    "static/js/main.0ec086b9.js"
+    "static/js/main.e64485e3.js"
   ]
 }
